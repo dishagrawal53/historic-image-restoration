@@ -40,9 +40,11 @@ A user-friendly GUI facilitates the full pipeline with options for image selecti
  
  # RESULTS
 ![image](https://github.com/user-attachments/assets/07fe28b7-c582-4143-9369-b9d73a11bbcb)
+<br>
 Fig : Enhanced image with a provided mask
 ![image](https://github.com/user-attachments/assets/0393ba9e-ab80-4016-959f-c7bdefba6051)
- Enhanced image without a provided mask
+<br>
+ Fig :Enhanced image without a provided mask
  
 
 
